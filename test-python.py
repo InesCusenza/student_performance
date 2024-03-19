@@ -5,3 +5,6 @@ def ines():
 
 def mathieu(ines):
     return "baby"
+
+def babou(alcool):
+    return 'bourée'
