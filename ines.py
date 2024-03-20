@@ -1,0 +1,2 @@
+def jesuisines():
+    return 'yes'
